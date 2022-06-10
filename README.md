@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/spacewizard66">
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacewizard66&theme=buefy&layout=compact" />
+</a>
+
+<a href="https://github.com/spacewizard66">
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=spacewizard66&show_icons=true&locale=en" />
+</a>
+<!--
+<a href="https://github.com/spacewizard66">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=spacewizard66&" />
+</a>
+-->
