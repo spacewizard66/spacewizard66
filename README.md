@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **spacewizard66/spacewizard66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Welcome to Mason Galat's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+
+<!--
+![Profile views](https://gpvc.arturio.dev/spacewizard66&color=blueviolet)
+-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=spacewizard66&label=Profile%20views&color=blueviolet&style=flat" alt="masongalat" /> </p>
 
 
 <a href="https://github.com/spacewizard66">
