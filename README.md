@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/spacewizard66">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacewizard66&theme=buefy&layout=compact" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacewizard66&theme=highcontrast&layout=compact" />
 </a>
 
 <a href="https://github.com/spacewizard66">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=spacewizard66&show_icons=true&locale=en" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=spacewizard66&show_icons=true&include_all_contributes=true&count_private=true&hide=issues&theme=highcontrast&line_height=27" />
 </a>
 <!--
 <a href="https://github.com/spacewizard66">
