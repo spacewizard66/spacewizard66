@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/spacewizard66">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=spacewizard66&show_icons=true&include_all_contributes=true&count_private=true&hide=issues&theme=highcontrast&line_height=32" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=spacewizard66&show_icons=true&include_all_contributes=true&count_private=true&hide=issues&theme=highcontrast&line_height=30" />
 </a>
 <!--
 <a href="https://github.com/spacewizard66">
