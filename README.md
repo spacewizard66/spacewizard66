@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-## 🛠️ Favorite Tool
+## 🛠️ Favorite Tools
 
 ### 👨‍💻 Languages
 
