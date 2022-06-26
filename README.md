@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 <p>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"></a>
+    <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <!--<a href="#"><img alt="Pygame" src="https://img.shields.io/badge/Pygame-092E20?logo=Pygame&logoColor=white"></a>-->
     <!--<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>-->
