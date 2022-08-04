@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">Welcome to Mason's Profile! <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">--></h3>
 
 
-![Profile views](https://gpvc.arturio.dev/spacewizard66&color=blueviolet)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spacewizard66&label=Profile%20views&color=blueviolet&style=flat" alt="masongalat"/> </p>
 
