@@ -15,11 +15,31 @@ Here are some ideas to get you started:
 
 <h3 align="center">Welcome to Mason's Profile! <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">--></h3>
 
-<!--
-![Profile views](https://gpvc.arturio.dev/spacewizard66&color=blueviolet)
--->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=spacewizard66&label=Profile%20views&color=blueviolet&style=flat" alt="masongalat" /> </p>
 
+![Profile views](https://gpvc.arturio.dev/spacewizard66&color=blueviolet)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=spacewizard66&label=Profile%20views&color=blueviolet&style=flat" alt="masongalat"/> </p>
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class Developer:
+
+    def __init__(self):
+        self.first_name = "Mason"
+        self.last_name = "Galat"
+        self.role = "FullStack Developer"
+
+    def say_hello(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Developer()
+me.say_hello()
+```
 
 
 ## 🛠️ Tools
