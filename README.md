@@ -36,10 +36,18 @@ class Developer:
 
     def say_hello(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
-
+        
+    def email(self):
+        print("mason4work@outlook.com")
+        
+    def portfolio(self):
+        print("https://mason-galat-portfolio.herokuapp.com/")
+        
 
 me = Developer()
 me.say_hello()
+me.email()
+me.portfolio()
 ```
 
 
