@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class Developer:
+class Information:
 
     def __init__(self):
+        self.role = "Developer"
         self.first_name = "Mason"
         self.last_name = "Galat"
-        self.role = "FullStack Developer"
 
     def say_hello(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Hello! Thank you for checking out my account.")
         
     def email(self):
         print("mason4work@outlook.com")
@@ -43,7 +43,7 @@ class Developer:
         print("https://mason-galat-portfolio.herokuapp.com/")
         
 
-me = Developer()
+me = Information()
 me.say_hello()
 me.email()
 me.portfolio()
