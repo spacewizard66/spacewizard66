@@ -97,11 +97,11 @@ me.portfolio()
 
 
 <a href="https://github.com/spacewizard66">
-  <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacewizard66&theme=highcontrast&layout=compact&line_height=5" />
+  <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacewizard66&theme=highcontrast&layout=compact&line_height=30" />
 </a>
 
 <a href="https://github.com/spacewizard66">
-  <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api?username=spacewizard66&show_icons=true&include_all_contributes=true&count_private=true&hide=issues&theme=highcontrast&line_height=30" />
+  <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api?username=spacewizard66&show_icons=true&include_all_contributes=true&count_private=true&hide=issues&theme=highcontrast&line_height=40" />
 </a>
 <!--
 <a href="https://github.com/spacewizard66">
