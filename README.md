@@ -34,7 +34,7 @@ class Information:
         self.last_name = "Galat"
 
     def say_hello(self):
-        print("Hello! Thank you for checking out my account.")
+        print("Hello! Thank you for checking out my profile.")
         
     def email(self):
         print("mason4work@outlook.com")
