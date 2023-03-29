@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spacewizard66&label=Profile%20views&color=blueviolet&style=flat" alt="masongalat"/> </p>
 -->
-
+<!--
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -48,6 +48,7 @@ me.say_hello()
 me.email()
 me.portfolio()
 ```
+-->
 <!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spacewizard66&label=Profile%20views&color=blueviolet&style=flat" alt="masongalat"/> </p>
 -->
