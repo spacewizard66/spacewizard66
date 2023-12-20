@@ -69,7 +69,7 @@ me.portfolio()
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a> -->
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"></a>
     <a href"#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
     <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white"></a>
