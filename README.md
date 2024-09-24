@@ -63,6 +63,7 @@ me.portfolio()
     <a href="https://github.com/search?q=user%3spacewizard66+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3spacewizard66+language%3Asass"><img alt="SCSS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3spacewizard66+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3spacewizard66+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-2F74C0.svg?logo=typescript&logoColor=black"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
